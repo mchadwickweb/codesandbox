@@ -5,7 +5,7 @@
     "author": "Becky Arrowsmith",
     "license": "MIT",
     "scripts": {
-        "parcel:start": "parcel index.html --no-cache --hmr-port 49359",
+        "parcel:start": "parcel index.html --no-cache --open",
         "parcel:build": "parcel build index.html --out-dir dist --public-url ./"
     },
     "dependencies": {
